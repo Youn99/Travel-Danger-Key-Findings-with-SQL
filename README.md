@@ -12,4 +12,4 @@ Pakistan and the Philippines.
 So together my team work we had to try to get clarity and really understand which states have higher rates of risk and whether they are the same as those indicated
 in the report. Finally, also try to understand which ones have lower risk rates. 
 
-in our Script SQL we used COMMON TABLE EXPRESSION, Simply simply that's a temporary table returned by a query which is then used by another query it’s temporary because the result is not stored anywhere it exists only when the query is run.
+In our Script SQL we used COMMON TABLE EXPRESSION, Simply simply that's a temporary table returned by a query which is then used by another query it’s temporary because the result is not stored anywhere it exists only when the query is run.
